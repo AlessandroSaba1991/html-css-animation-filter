@@ -236,17 +236,17 @@
 
 @keyframes top {
     0% {
-        top: -10%;
+        top: -10px;
         left: 10%;
     }
 
     50% {
-        top: -10%;
+        top: -10px;
         left: calc(100% - 60px);
     }
 
     100% {
-        top: -10%;
+        top: -10px;
         left: 10%;
     }
     
@@ -272,7 +272,7 @@
     }
 
     50% {
-        bottom: -10%;
+        bottom: -10px;
         right: calc(100% - 60px);
     }
 
@@ -314,12 +314,12 @@
 
 @keyframes top2 {
     0% {
-        top: -10%;
+        top: -10px;
         left: 10%;
     }
 
     20% {
-        top: -10%;
+        top: -10px;
         left: calc(100% - 30px);
     }
 
@@ -334,12 +334,12 @@
     }
 
     80% {
-        top: -10%;
+        top: -10px;
         left: -30px;
     }
 
     100% {
-        top: -10%;
+        top: -10px;
         left: 10%;
     }
     
@@ -360,12 +360,12 @@
 
 @keyframes bottom2 {
     0% {
-        bottom: -10%;
+        bottom: -10px;
         right: 20%;
     }
 
     20% {
-       bottom: -10%;
+       bottom: -10px;
        right: calc(100% - 30px);
     }
 
@@ -380,12 +380,12 @@
     }
 
     80% {
-        bottom: -10%;
+        bottom: -10px;
         right: -10px;
     }
 
     100% {
-        bottom: -10%;
+        bottom: -10px;
         right: 20%;
     }
     
